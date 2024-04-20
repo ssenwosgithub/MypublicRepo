@@ -1,0 +1,11 @@
+Model Information:
+* title:	FNaF Freddy Plush Remastered v.0.1
+* source:	https://sketchfab.com/3d-models/fnaf-freddy-plush-remastered-v01-934be065606a4b5d975d9f7fe2b09dbc
+* author:	xBloX_xD (https://sketchfab.com/xBloX_xD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "FNaF Freddy Plush Remastered v.0.1" (https://sketchfab.com/3d-models/fnaf-freddy-plush-remastered-v01-934be065606a4b5d975d9f7fe2b09dbc) by xBloX_xD (https://sketchfab.com/xBloX_xD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
